@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+p{
+    text-rendering: geometricPrecision;
+    padding: 35px;
+
+}
+img
+{
+    display: flex;
+     
+}
+body{
+background: linear-gradient(45deg, black,white, transparent);
+
+}
+ul{
+    color:white;
+}
+a{
+    color: aqua;
+    text-align: right;
+}
